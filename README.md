@@ -19,3 +19,4 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+嗷嗷嗷嗷  第一次用git乌龟这个东西感觉和svn乌龟差不多
